@@ -30,4 +30,3 @@ def delete(table,accNo):
 
     
 print(insert(table,accNo))
-print(delete(table,accNo))
